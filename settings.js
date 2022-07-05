@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94767761567']
-global.premium = ['94767761567']
-global.ownernomer = '94767761567'
-global.ownername = '🐦bhushitha'
-global.botname = 'bhushitha'
+global.owner = ['94742427578']
+global.premium = ['94742427578']
+global.ownernomer = '94742427578'
+global.ownername = '🐦SUMI BOT'
+global.botname = 'SUMIBOT'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'bhushitha'
+global.packname = 'SUMI BOT OWNER BHUSHITHA'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
