@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                             SUMI BOT 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,6 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
+global.botgrup = ['https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME']
 global.owner = ['94742427578']
 global.premium = ['94742427578']
 global.ownernomer = '94742427578'
